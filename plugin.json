@@ -1,0 +1,19 @@
+{
+	"name": "SWS ALPS Mods",
+	"version": "1.8",
+	"download_url": "https://github.com/ccharacter/sws-alps-mod/archive/v1.8.zip",
+
+	"homepage": "https://ccharacter.com/custom-plugins/sws-alps-mod/",
+	"requires": "4.0",
+	"tested": "5.5",
+	"last_updated": "2021-02-01",
+	"upgrade_notice": "Keeping up with the lastest version means fewer errors.",
+
+	"author": "Sharon Stromberg",
+	"author_homepage": "http://ccharacter.com/",
+
+	"sections": {
+		"description": "This plugin is a repository for tweaks that I want to make to the ALPS theme."
+	}
+
+}
